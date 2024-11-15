@@ -1,6 +1,6 @@
 - 👋 Here is ChiYuanJin9
-- 👀 Freelance Cybersecurity Researcher: Focus on Reverse Engineering && Java Security
-- 🌱 Gui Development Enthusiast
+- 👀 Freelance Cybersecurity Researcher : Focus on Reverse Engineering && Java Security
+- 🌱 GUI Development Enthusiast
 - 📫 Email: YXVnZW56ZXVnZTE5MTFAZ21haWwuY29t
 - 🌊 Twitter: https://twitter.com/ChiYuanjin9
 
