@@ -1,6 +1,6 @@
 - 👋 Here is ChiYuanJin9
-- 👀 Focus on Java Security
-- 🌱 Member of Dbapp WebBin Lab && Vidar-Team 
+- 👀 Freelance Cybersecurity Researcher: Focus on Reverse Engineering && Java Security
+- 🌱 Gui Development Enthusiast
 - 📫 Email: YXVnZW56ZXVnZTE5MTFAZ21haWwuY29t
 - 🌊 Twitter: https://twitter.com/ChiYuanjin9
 
